@@ -423,9 +423,7 @@ function Home({ scrollTo }) {
           <div className="stat"><div className="stat-num">3rd</div><div className="stat-label">Year B.Tech IT Student</div></div>
         </div>
       </div>
-
       
-      //profile here
 <div className="profile-card">
   <div className="profile-initials">TSV</div>
   <div className="profile-label">Tamilselvi S Profile Photo</div>
