@@ -423,21 +423,12 @@ function Home({ scrollTo }) {
           <div className="stat"><div className="stat-num">3rd</div><div className="stat-label">Year B.Tech IT Student</div></div>
         </div>
       </div>
+
       
+      //profile here
 <div className="profile-card">
-  <img
-    src="https://cdn.phototourl.com/uploads/2026-02-23-a416f616-c569-4ac4-a40e-9a58fa2097f0.png"
-    alt="Tamilselvi S"
-    style={{
-      width: "100%",
-      height: "100%",
-      objectFit: "cover",
-      objectPosition: "top 30%", // moved left
-      borderRadius: "24px",
-      position: "absolute",
-      inset: 0,
-    }}
-  />
+  <div className="profile-initials">TSV</div>
+  <div className="profile-label">Tamilselvi S Profile Photo</div>
 </div>    </section>
   );
 }
